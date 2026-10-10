@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1",
+  "versionCode": 1,
+  "versionName": "1.0",
   "apkUrl": "https://yourwebsite.com/downloads/app-update.apk",
   "updateMessage": "A new version of the app is available! Please update to enjoy new features.Bro"
 }
